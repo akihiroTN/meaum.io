@@ -1,0 +1,103 @@
+@charset "UTF-8";
+.image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+*{
+    box-sizing: border-box;
+}
+.profile-wrapper{
+    text-align: center;
+}
+.header-wrapper{
+    height: 128px;
+}
+.header{
+    height: 38px;
+}
+.profile h1{
+    color:#9FBCDF;
+    font-size: 22px;
+}
+.lefttab{
+    background-color: #e0e0e0;
+    width: 50%;
+    color:white;
+    text-decoration: none;
+}
+.righttab{
+    background-color: #C0C0C0;
+    width: 50%;
+    color:white;
+    text-decoration: none;
+}
+.halftab-wrapper{
+    width: 100%;
+    text-align: center;
+}
+.halftab{
+    width: 100%;
+    display: flex;
+    margin-top:60px;
+}
+.arts-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:40px;
+    text-align: center;
+    width: 100%;
+}
+.arts{
+    width: 33%;
+    flex:auto;
+    margin-top:60px;
+}
+.art{
+    margin:0 auto;
+    width: 33%;
+    width: 300px;
+    max-width: 300px;
+    position: relative;
+}
+.artp{
+    color:#BCB5B5;
+    font-size:16px;
+    text-align: center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.art img{
+    height: 300px;
+    width: 300px;
+
+}
+.art a{
+    text-decoration: none;
+    border:solid 1px white;
+    box-shadow: 1px 1px 1px 1px gray;
+    display:block;
+}
+.art a:hover{
+    box-shadow: 2px 2px 2px 2px gray;;
+}
+.pricecard{
+    padding:7px 25px;
+    background-color:black;
+    color:white;
+    opacity:0.5;
+    width: auto;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    font-size:15px;
+    position: absolute;
+    bottom:40px;
+}
+.profile i{
+    color:black;
+}
+.profile a{
+    text-decoration: none;
+}

@@ -1,0 +1,190 @@
+@charset "UTF-8";
+
+@media screen and (max-width:1000px) {
+    .sealingone{
+        flex-direction: column;
+        text-align: center;
+    }
+    .sealing{
+        flex-direction: column;
+    }
+    .sealing-img{
+        width: 100%;
+        text-align: center;
+    }
+    .sentence{
+        text-align: center;
+        width: 100%;
+    }
+    .block{
+        display: inline-block;
+        margin:0px;
+    }
+    
+    .paintcenter{
+        flex-direction: column;
+        text-align: center;
+    }
+    .paintcenter p{
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .painting-left{
+        display: inline-block;
+        width: 100%;
+        margin:0px 0px;
+    }
+    .painting{
+        display: inline-block;
+        width: 100%;
+        margin:0px 0px;
+    }
+    .painting-right{
+        display: inline-block;
+        width: 100%;
+        margin:0px 0px;
+    }
+    .button{
+        margin-top:25px;
+        margin-bottom:50px;
+      }
+    .painting-title{
+        margin-top:100px;
+    }
+    .art{
+        width: 200px;
+    }
+    .art a{
+        width: 200px;
+    }
+    .arts{
+        width: 100%;
+    }
+    .art img{
+        height: 200px;
+        width: 200px;
+    }
+    .pricecard{
+        bottom:71px;
+        padding:5px 20px;
+    }
+}
+@media screen and (max-width:670px) {
+    .sealing-img img{
+        width: 80%;
+        height: 80%;
+        margin:0px 10%;
+        max-width: 300px;
+        max-height: 300px;
+    }
+    .block{
+        width: 100%;
+    }
+    .block p{
+        font-size:14px;
+    }
+   
+    .painting-left img{
+        width: 80%;
+        height: 80%;
+        margin:0px 10%;
+        max-width: 300px;
+        max-height: 300px;
+    }
+    .painting-right img{
+        width: 80%;
+        height: 80%;
+        margin:0px 10%;
+        max-width: 300px;
+        max-height: 300px;
+    }
+    .painting img{
+        width: 80%;
+        height: 80%;
+        margin:0px 10%;
+        max-width: 300px;
+        max-height: 300px;
+    }
+    .paintcenter p{
+        height: auto;
+        font-size:14px;
+    }
+    .menu{
+        display: none;
+    }
+    .contact{
+        display: none;
+    }
+    .image-wrapper img{
+        width: 90%;
+        margin:0 5%;
+    }
+    h1{
+        font-size:28px;
+    }
+    .contents-wrapper{
+        margin-top:70px;
+    }
+    .painting-title{
+        margin-top:30px;
+    }
+    .sealing-title h2{
+        font-size:30px;
+        width: 200px;
+        margin-bottom:70px;
+    }
+    .painting-title h2{
+        font-size:30px;
+        width: 150px;
+        margin-bottom:70px;
+    }
+    .rightimg img{
+        max-width: 100px;
+    }
+    .leftimg img{
+        max-width: 100px;;
+    }
+    .plus img{
+        max-width: 25px;
+        max-height: 25px;
+        top:40px;
+    }
+    .course{
+        max-width: 390px;
+    }
+    .halftab{
+        border-top:none;
+    }
+    .button{
+        margin-top:20px;
+    }
+    .button a{
+        font-size:14px;
+        padding:13px;
+    }
+    .header{
+        display: flex;
+        margin-bottom:18px;
+        width: 90%;
+        margin: 0 5%;
+    }
+    .header-wrapper{
+        width: 100%;
+        margin-bottom:10px;
+    }
+    .header h1{
+        width: 50%;
+        text-align: left;
+        margin:0px;
+    }
+    .modal{
+        display: block;
+        width: 50%;
+        text-align: right;
+    }
+    .modal img{
+        width: 34px;
+        height: 34px;
+    }
+}
