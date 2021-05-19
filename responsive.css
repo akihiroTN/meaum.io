@@ -75,11 +75,12 @@
         width: 80%;
         height: 80%;
         margin:0px 10%;
-        max-width: 300px;
-        max-height: 300px;
+        max-width: 200px;
+        max-height: 200px;
     }
     .block{
         width: 100%;
+        max-width: 250px;
     }
     .block p{
         font-size:14px;
@@ -89,22 +90,22 @@
         width: 80%;
         height: 80%;
         margin:0px 10%;
-        max-width: 300px;
-        max-height: 300px;
+        max-width: 200px;
+        max-height: 200px;
     }
     .painting-right img{
         width: 80%;
         height: 80%;
         margin:0px 10%;
-        max-width: 300px;
-        max-height: 300px;
+        max-width: 200px;
+        max-height: 200px;
     }
     .painting img{
         width: 80%;
         height: 80%;
         margin:0px 10%;
-        max-width: 300px;
-        max-height: 300px;
+        max-width: 200px;
+        max-height: 200px;
     }
     .paintcenter p{
         height: auto;
@@ -130,13 +131,13 @@
         margin-top:30px;
     }
     .sealing-title h2{
-        font-size:30px;
-        width: 200px;
+        font-size:20px;
+        width: 140px;
         margin-bottom:70px;
     }
     .painting-title h2{
-        font-size:30px;
-        width: 150px;
+        font-size:20px;
+        width: 140px;
         margin-bottom:70px;
     }
     .rightimg img{
