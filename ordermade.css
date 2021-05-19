@@ -19,6 +19,8 @@
 .profile h1{
     color:#9FBCDF;
     font-size: 22px;
+    width: 110px;
+    display: inline-block;
 }
 .lefttab{
     background-color: #e0e0e0;
@@ -95,7 +97,7 @@
     bottom:40px;
 }
 .profile i{
-    color:black;
+    color:#D93177;
 }
 .profile a{
     text-decoration: none;

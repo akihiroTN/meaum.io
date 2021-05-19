@@ -21,6 +21,8 @@
     font-size: 22px;
     margin-bottom:30px;
     margin-top:15px;
+    width: 110px;
+    display: inline-block;
 }
 .lefttab{
     background-color: #e0e0e0;
@@ -160,7 +162,7 @@
     color:#79A1D4;
 }
 .profile i{
-    color:black;
+    color:#D93177;
 }
 .profile a{
     text-decoration: none;
