@@ -188,4 +188,7 @@
         width: 34px;
         height: 34px;
     }
+    .halftab p{
+        font-size: 13px;
+    }
 }
